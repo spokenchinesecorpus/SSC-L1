@@ -22,3 +22,4 @@ N19 male, age c.35, southern China
 N20 male, age c.27, northern China
 N21 male, age c.35, northern China
 N22 female, age c.24, southern China
+N23 male, age c.26, northern China
